@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Run every 12 hours at 0 minutes
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -17,16 +17,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4 # Updated to v4 (Node.js 20)
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: actions/checkout@v4
+      - name: Generate snake.gif
+        uses: Platane/snk@v3 # Use the main action, which supports GIF output
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?palette=github-dark
-            dist/snake-light.svg?palette=github-light
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v4 # Updated to v4 (Node.js 20)
+          outputs: dist/snake.gif?color_snake=orange
+      - name: Push snake.gif to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
