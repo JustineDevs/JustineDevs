@@ -19,7 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Generate snake.gif
-        uses: Platane/snk@v3 # Use the main action, which supports GIF output
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.gif?color_snake=orange
