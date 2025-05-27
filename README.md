@@ -9,7 +9,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustineDevs/traderg/output/snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustineDevs/traderg/output/snake-light.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/JustineDevs/traderg/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/JustineDevs/traderg/output/snake.gif" alt="Snake animation" />
   </picture>
   <br/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
