@@ -7,9 +7,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=JustineDevs&theme=dark&hide_border=false" style="width: 500px;" alt="streak stats" />
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustineDevs/JustineDevs/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustineDevs/JustineDevs/output/snake-light.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/JustineDevs/JustineDevs/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustineDevs/traderg/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustineDevs/traderg/output/snake-light.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/JustineDevs/traderg/output/snake.svg" />
   </picture>
   <br/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
