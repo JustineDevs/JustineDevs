@@ -42,4 +42,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justine-devs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:TraderGOfficial@gmail.com) [![twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white)](https://x.com/Trader2G)
 ---
 [![](https://visitcount.itsvg.in/api?id=JustineDevs&icon=0&color=0)](https://visitcount.itsvg.in)
-
+# Vibe Coder
