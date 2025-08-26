@@ -31,13 +31,6 @@ If you find this project helpful, please consider supporting its development:
 [![Patreon](https://img.shields.io/badge/Patreon-JustineDevs-orange?style=for-the-badge&logo=patreon)](https://patreon.com/JustineDevs)
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-MetaWalletGen-blue?style=for-the-badge&logo=opencollective)](https://opencollective.com/metawalletgen)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-JustineDevs-yellow?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/JustineDevs)
-[![Tidelift](https://img.shields.io/badge/Tidelift-npm%2Fmetawalletgen--cli-green?style=for-the-badge&logo=tidelift)](https://tidelift.com/funding/github/npm/metawalletgen-cli)
-[![Community Bridge](https://img.shields.io/badge/Community%20Bridge-cloud--foundry-purple?style=for-the-badge&logo=linuxfoundation)](https://communitybridge.org/projects/cloud-foundry)
-[![Liberapay](https://img.shields.io/badge/Liberapay-JustineDevs-green?style=for-the-badge&logo=liberapay)](https://liberapay.com/JustineDevs)
-[![IssueHunt](https://img.shields.io/badge/IssueHunt-MetaWalletGen-blue?style=for-the-badge&logo=github)](https://issuehunt.io/r/JustineDevs/MetaWalletGen-CLI)
-[![LFX Crowdfunding](https://img.shields.io/badge/LFX%20Crowdfunding-cloud--foundry-orange?style=for-the-badge&logo=linuxfoundation)](https://crowdfunding.lfx.linuxfoundation.org/projects/cloud-foundry)
-[![Polar](https://img.shields.io/badge/Polar-MetaWalletGen-blue?style=for-the-badge&logo=polar)](https://polar.sh/JustineDevs)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-JustineDevs-yellow?style=for-the-badge&logo=ko-fi)](https://buymeacoffee.com/JustineDevs)
 [![Thanks.dev](https://img.shields.io/badge/Thanks.dev-JustineDevs-green?style=for-the-badge&logo=github)](https://thanks.dev/JustineDevs)
 [![Email Support](https://img.shields.io/badge/Email%20Support-TraderGOfficial%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:TraderGOfficial@gmail.com)
 
