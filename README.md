@@ -27,7 +27,6 @@
 
 If you find this project helpful, please consider supporting its development:
 
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-JustineDevs-red?style=for-the-badge&logo=github)](https://github.com/sponsors/JustineDevs)
 [![Patreon](https://img.shields.io/badge/Patreon-JustineDevs-orange?style=for-the-badge&logo=patreon)](https://patreon.com/JustineDevs)
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-MetaWalletGen-blue?style=for-the-badge&logo=opencollective)](https://opencollective.com/metawalletgen)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-JustineDevs-yellow?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/JustineDevs)
