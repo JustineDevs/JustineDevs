@@ -31,7 +31,6 @@ If you find my projects and work helpful, please consider supporting my developm
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-MetaWalletGen-blue?style=for-the-badge&logo=opencollective)](https://opencollective.com/metawalletgen)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-JustineDevs-yellow?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/JustineDevs)
 [![Thanks.dev](https://img.shields.io/badge/Thanks.dev-JustineDevs-green?style=for-the-badge&logo=github)](https://thanks.dev/JustineDevs)
-[![Email Support](https://img.shields.io/badge/Email%20Support-TraderGOfficial%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:TraderGOfficial@gmail.com)
 </div>
 
 ---
