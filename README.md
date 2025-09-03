@@ -1,9 +1,3 @@
-<h1 align="center">Vibe Coder</h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/JustineDevs/JustineDevs/output/snake.svg" alt="Snake animation" />
-
 ###
 <h1 align="center">💻 Tech Stack</h1>
 <div align="center">
@@ -77,11 +71,16 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/JustineDevs/JustineDevs/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JustineDevs.JustineDevs&"  />
 </div>
 
 ###
+<h1 align="center">Vibe Coder</h1>
 
 <div align="center">
   
