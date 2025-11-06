@@ -79,9 +79,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JustineDevs.JustineDevs&"  />
 </div>
 
-###
-<h1 align="center">Vibe Coder</h1>
-
 <div align="center">
   
 ## 💰 Support This Person 
