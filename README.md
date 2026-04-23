@@ -88,6 +88,7 @@ If you find my projects and work helpful, please consider supporting my developm
 
 <div align="center">
   
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/justinedevs)
 [![Patreon](https://img.shields.io/badge/Patreon-JustineDevs-orange?style=for-the-badge&logo=patreon)](https://patreon.com/JustineDevs)
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-MetaWalletGen-blue?style=for-the-badge&logo=opencollective)](https://opencollective.com/metawalletgen)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-JustineDevs-yellow?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/JustineDevs)
