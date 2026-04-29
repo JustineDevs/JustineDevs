@@ -69,9 +69,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustineDevs&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/JustineDevs/JustineDevs/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -81,19 +78,88 @@
 
 <div align="center">
   
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/justinedevs)
+
+</div>
+
+<div align="center">
+
 ## 💰 Support This Person 
 If you find my projects and work helpful, please consider supporting my development efforts:
 
 </div>
 
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/justinedevs)
-[![Patreon](https://img.shields.io/badge/Patreon-JustineDevs-orange?style=for-the-badge&logo=patreon)](https://patreon.com/JustineDevs)
-[![Open Collective](https://img.shields.io/badge/Open%20Collective-MetaWalletGen-blue?style=for-the-badge&logo=opencollective)](https://opencollective.com/metawalletgen)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-JustineDevs-yellow?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/JustineDevs)
-[![Thanks.dev](https://img.shields.io/badge/Thanks.dev-JustineDevs-green?style=for-the-badge&logo=github)](https://thanks.dev/JustineDevs)
+> [!NOTE]
+> Most projects are actively maintained or in development. Stars and status reflect the current state as of the latest update.
 
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Stars</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>go-mirofish</b></td>
+        <td>Simple and Universal Swarm Intelligence Engine, Predicting Anything.</td>
+        <td><a href="https://github.com/go-mirofish/go-mirofish/stargazers"><img src="https://img.shields.io/github/stars/go-mirofish/go-mirofish?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-active-4CAF50?style=flat-square" alt="Active" /></td>
+      </tr>
+      <tr>
+        <td><b>Hyperkit-Labs</b></td>
+        <td>AI-powered smart contract</td>
+        <td><a href="https://github.com/Hyperkit-Labs/hyperagent/stargazers"><img src="https://img.shields.io/github/stars/Hyperkit-Labs/hyperagent?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-active-4CAF50?style=flat-square" alt="Active" /></td>
+      </tr>
+      <tr>
+        <td><b>MetaWalletGen-CLI</b></td>
+        <td>EOA wallet generator</td>
+        <td><a href="https://github.com/Justinedevs/MetaWalletGen-CLI/stargazers"><img src="https://img.shields.io/github/stars/Justinedevs/MetaWalletGen-CLI?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-stable-2196F3?style=flat-square" alt="Stable" /></td>
+      </tr>
+      <tr>
+        <td><b>murmur</b></td>
+        <td>Local-first Go intelligence appliance for private multi-agent</td>
+        <td><a href="https://github.com/Justinedevs/murmur/stargazers"><img src="https://img.shields.io/github/stars/Justinedevs/murmur?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-wip-FF9800?style=flat-square" alt="WIP" /></td>
+      </tr>
+      <tr>
+        <td><b>basiq</b></td>
+        <td>Standardized Philippine logistics movement </td>
+        <td><a href="https://github.com/Justinedevs/basiq/stargazers"><img src="https://img.shields.io/github/stars/Justinedevs/basiq?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-wip-FF9800?style=flat-square" alt="WIP" /></td>
+      </tr>
+      <tr>
+        <td><b>Fyleris</b></td>
+        <td>Home and control plane for always‑on AI assistants</td>
+        <td><a href="https://github.com/Justinedevs/Fyleris/stargazers"><img src="https://img.shields.io/github/stars/Justinedevs/Fyleris?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-wip-FF9800?style=flat-square" alt="WIP" /></td>
+      </tr>
+      <tr>
+        <td><b>Astra</b></td>
+        <td>Protocol for roadmaps</td>
+        <td><a href="https://github.com/astra-roadmap-protocol/astra/stargazers"><img src="https://img.shields.io/github/stars/astra-roadmap-protocol/astra?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-wip-FF9800?style=flat-square" alt="WIP" /></td>
+      </tr>
+      <tr>
+        <td><b>hawktask</b></td>
+        <td>Freelance management, automated by AI.</td>
+        <td><a href="https://github.com/hawktask/hawktask/stargazers"><img src="https://img.shields.io/github/stars/hawktask/hawktask?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-wip-FF9800?style=flat-square" alt="WIP" /></td>
+      </tr>
+      <tr>
+        <td><b>Vynix Bot</b></td>
+        <td>Vynix Bot - Multi-Chain Blockchain Automation</td>
+        <td><a href="https://github.com/Justinedevs/VYNIX_PUBLIC/stargazers"><img src="https://img.shields.io/github/stars/Justinedevs/VYNIX_PUBLIC?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-archive-9E9E9E?style=flat-square" alt="Archive" /></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
 
 [![](https://visitcount.itsvg.in/api?id=JustineDevs&icon=0&color=0)](https://visitcount.itsvg.in)
