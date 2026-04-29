@@ -104,6 +104,18 @@ If you find my projects and work helpful, please consider supporting my developm
     </thead>
     <tbody>
       <tr>
+        <td><b>Curated Collection</b></td>
+        <td>Repositories for developers, featuring resources on AI, Large Language Models (LLMs), and much more.</td>
+        <td><a href="https://github.com/justinedevs/Public-Github-Repo/stargazers"><img src="https://img.shields.io/github/stars/justinedevs/Public-Github-Repo?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-active-4CAF50?style=flat-square" alt="Active" /></td>
+      </tr>
+      <tr>
+        <td><b>Skills Collection</b></td>
+        <td>Collection of Skills that I published</td>
+        <td><a href="https://github.com/justinedevs/collection/stargazers"><img src="https://img.shields.io/github/stars/justinedevs/collection?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-active-4CAF50?style=flat-square" alt="Active" /></td>
+      </tr>
+      <tr>
         <td><b>go-mirofish</b></td>
         <td>Simple and Universal Swarm Intelligence Engine, Predicting Anything.</td>
         <td><a href="https://github.com/go-mirofish/go-mirofish/stargazers"><img src="https://img.shields.io/github/stars/go-mirofish/go-mirofish?style=flat-square&color=DAA520" alt="Stars" /></a></td>
