@@ -129,8 +129,8 @@ If you find my projects and work helpful, please consider supporting my developm
       </tr>
     <tbody>
       <tr>
-        <td><b>RCS: Roblox AI OS (Creator) Skills for Codex, Claude, Cursor, and more IDE</b></td>
-        <td>Repositories for developers, featuring resources on AI, Large Language Models (LLMs), and much more.</td>
+        <td><b>RCS: Roblox AI OS (Creator) Skills</b></td>
+        <td>Roblox AI OS (Creator) Skills for Codex, Claude, Cursor, and more IDE.</td>
         <td><a href="https://github.com/justinedevs/roblox-ai-os/stargazers"><img src="https://img.shields.io/github/stars/justinedevs/roblox-ai-os?style=flat-square&color=DAA520" alt="Stars" /></a></td>
         <td><img src="https://img.shields.io/badge/status-active-4CAF50?style=flat-square" alt="Active" /></td>
       </tr>
