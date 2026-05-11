@@ -127,6 +127,34 @@ If you find my projects and work helpful, please consider supporting my developm
         <td><a href="https://github.com/Hyperkit-Labs/hyperagent/stargazers"><img src="https://img.shields.io/github/stars/Hyperkit-Labs/hyperagent?style=flat-square&color=DAA520" alt="Stars" /></a></td>
         <td><img src="https://img.shields.io/badge/status-active-4CAF50?style=flat-square" alt="Active" /></td>
       </tr>
+    <tbody>
+      <tr>
+        <td><b>RCS: Roblox AI OS (Creator) Skills for Codex, Claude, Cursor, and more IDE</b></td>
+        <td>Repositories for developers, featuring resources on AI, Large Language Models (LLMs), and much more.</td>
+        <td><a href="https://github.com/justinedevs/roblox-ai-os/stargazers"><img src="https://img.shields.io/github/stars/justinedevs/roblox-ai-os?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-active-4CAF50?style=flat-square" alt="Active" /></td>
+      </tr>
+    <tbody>
+      <tr>
+        <td><b>Meta Architect</b></td>
+        <td>MA - Meta-Architect (MA) is a workflow layer for Codex-style CLIs and MCP-enabled runtimes.</td>
+        <td><a href="https://github.com/justinedevs/meta-architect/stargazers"><img src="https://img.shields.io/github/stars/justinedevs/meta-architect?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-active-4CAF50?style=flat-square" alt="Active" /></td>
+      </tr>
+    <tbody>
+      <tr>
+        <td><b>AI-UGC</b></td>
+        <td>AI-UGC is a configurable AI user-generated content platform for analyzing winning source content and generating niche-specific marketing, advertising, and brand videos.</td>
+        <td><a href="https://github.com/justinedevs/AI-UGC/stargazers"><img src="https://img.shields.io/github/stars/justinedevs/AI-UGC?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-active-4CAF50?style=flat-square" alt="Active" /></td>
+      </tr>
+    <tbody>
+      <tr>
+        <td><b>CanvasFlow AI</b></td>
+        <td>The Open-Source Visual Orchestrator for Personal Brand Identities.</td>
+        <td><a href="https://github.com/justinedevs/canvasflowai.github.io/stargazers"><img src="https://img.shields.io/github/stars/justinedevs/canvasflowai.github.io?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><img src="https://img.shields.io/badge/status-active-4CAF50?style=flat-square" alt="Active" /></td>
+      </tr>
       <tr>
         <td><b>MetaWalletGen-CLI</b></td>
         <td>EOA wallet generator</td>
