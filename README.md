@@ -152,7 +152,7 @@ If you find my projects and work helpful, please consider supporting my developm
       <tr>
         <td><b>CanvasFlow AI</b></td>
         <td>The Open-Source Visual Orchestrator for Personal Brand Identities.</td>
-        <td><a href="https://github.com/justinedevs/canvasflowai.github.io/stargazers"><img src="https://img.shields.io/github/stars/justinedevs/canvasflowai.github.io?style=flat-square&color=DAA520" alt="Stars" /></a></td>
+        <td><a href="https://github.com/justinedevs/canvasflowai/stargazers"><img src="https://img.shields.io/github/stars/justinedevs/canvasflowai?style=flat-square&color=DAA520" alt="Stars" /></a></td>
         <td><img src="https://img.shields.io/badge/status-active-4CAF50?style=flat-square" alt="Active" /></td>
       </tr>
       <tr>
