@@ -57,7 +57,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Trader2G" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://thesvg.org/icons/x-formerly-twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
 
@@ -84,6 +84,15 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/justinedevs)
 
 </div>
+
+<br clear="both">
+
+<div data-importer="activities" align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@justinedevs/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@justinedevs/1" alt="Medium post 2"  />
+  </a>
+</div>
+
 
 <div align="center">
 
