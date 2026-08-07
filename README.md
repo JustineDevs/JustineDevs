@@ -42,7 +42,7 @@ Technical & Logical | 2yrs | Software Developer | Website Developer | Entry-Mid 
 
 Language             |  Frameworks
 :-------------------------:|:-------------------------:
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=nodejs,next,tailwind,react,vue,nuxt,express&includeNames=true&theme=darkmode)](https://github.com/justinedevs/github-widgetbox) |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,java,html,css,go,postgresql,mysql,mongodb,lua,visualbasic,solidity,markdown&includeNames=true&theme=darkmode)](https://github.com/justinedevs/) |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true)](https://github.com/justinedevs/)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=nodejs,next,tailwind,react,vue,nuxt,express&includeNames=true&theme=darkmode)](https://github.com/justinedevs) |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,java,html,css,go,postgresql,mysql,mongodb,lua,visualbasic,solidity,markdown&includeNames=true&theme=darkmode)](https://github.com/justinedevs/) |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true)](https://github.com/justinedevs/)
 
 <h2 align="center">Tools</h2>
 <table>
