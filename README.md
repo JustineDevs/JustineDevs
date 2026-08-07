@@ -337,37 +337,95 @@ Language             |  Frameworks
 ## Achievements
 
 <table>
+  <!-- Achievements row 1 -->
   <tr>
-    <td width="50%">
+    <td colspan="2" width="50%">
       <a href="https://lnkd.in/p/ghZps6Hk">
-        <img width="100%" src="https://media.licdn.com/dms/image/v2/D5622AQH3B3fgNBtuEw/feedshare-shrink_480/B56Z6VR1_8HUAg-/0/1780620943609?e=1787788800&amp;v=beta&amp;t=1AOUTYN2PM2SWoiOTm30fauFGrGnyMT_hTDOhzN7OOQ" alt="Founder Certificate">
+        <img
+          width="100%"
+          src="https://media.licdn.com/dms/image/v2/D5622AQH3B3fgNBtuEw/feedshare-shrink_480/B56Z6VR1_8HUAg-/0/1780620943609?e=1787788800&amp;v=beta&amp;t=1AOUTYN2PM2SWoiOTm30fauFGrGnyMT_hTDOhzN7OOQ"
+          alt="Founder Certificate"
+        >
       </a>
       <br>
       <strong>Founder Certificate</strong>
     </td>
-    <td width="50%">
+    <td colspan="2" width="50%">
       <a href="https://x.com/HyperkitLabs/status/2001098999907148055?s=20">
-        <img width="100%" src="https://pbs.twimg.com/media/G8VTDbjbMAAYAyG?format=jpg&amp;name=small" alt="Hyperkit Labs Achievement">
+        <img
+          width="100%"
+          src="https://pbs.twimg.com/media/G8VTDbjbMAAYAyG?format=jpg&amp;name=small"
+          alt="Avalanche Hack2Build x402 Agents"
+        >
       </a>
       <br>
       <strong>Avalanche Hack2Build x402 Agents (3rd)</strong>
     </td>
   </tr>
 
+  <!-- Achievements row 2 -->
   <tr>
-    <td width="50%">
+    <td colspan="2" width="50%">
       <a href="https://x.com/mandate402/status/2063885900954869928?s=20">
-        <img width="100%" src="https://pbs.twimg.com/media/HKRgIRmbkAAwvN-?format=jpg&amp;name=small" alt="Mandate402 Achievement">
+        <img
+          width="100%"
+          src="https://pbs.twimg.com/media/HKRgIRmbkAAwvN-?format=jpg&amp;name=small"
+          alt="Mandate402 Morph Payment Hackathon"
+        >
       </a>
       <br>
-      <strong>Mandate402 | Morph Payment Hackathon(3rd)</strong>
+      <strong>Mandate402 | Morph Payment Hackathon (3rd)</strong>
     </td>
-    <td width="50%">
+    <td colspan="2" width="50%">
       <a href="https://forum.ceg.vote/t/hyperhack-winners/10593">
-        <img width="100%" src="https://forum.ceg.vote/uploads/default/original/2X/0/034ae4e62ddd7115bb66d2b754fbf44f28370d63.jpeg" alt="HyperHack Winners">
+        <img
+          width="100%"
+          src="https://forum.ceg.vote/uploads/default/original/2X/0/034ae4e62ddd7115bb66d2b754fbf44f28370d63.jpeg"
+          alt="Metis Hyperhack Hackathon Winners"
+        >
       </a>
       <br>
-      <strong>Metis Hyperhack Hackathon Winners(2nd)</strong>
+      <strong>Metis Hyperhack Hackathon Winners (2nd)</strong>
+    </td>
+  </tr>
+
+  <!-- Social links row -->
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://www.linkedin.com/in/justine-lupasi-444608295">
+        <img
+          width="100%"
+          src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjustine-lupasi-444608295%2F%3FisSelfProfile%3Dtrue&size=square"
+          alt="LinkedIn"
+        >
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://dev.to/justinedevs">
+        <img
+          width="100%"
+          src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdev.to%2Fjustinedevs&size=square&rounded=24"
+          alt="DEV Community"
+        >
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://gitlab.com/justinedevs">
+        <img
+          width="100%"
+          src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgitlab.com%2Fjustinedevs&size=square"
+          alt="GitLab"
+        >
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://medium.com/@justinedevs">
+        <img
+          width="100%"
+          src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fmedium.com%2F%40justinedevs&size=square"
+          alt="Medium"
+        >
+      </a>
     </td>
   </tr>
 </table>
@@ -379,30 +437,3 @@ Language             |  Frameworks
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@justinedevs/1" alt="Medium post 2"  />
   </a>
 </div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/justine-lupasi-444608295">
-    <img
-      src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjustine-lupasi-444608295%2F%3FisSelfProfile%3Dtrue&size=square"
-      alt="LinkedIn"
-    >
-  </a>
-
-  <a href="https://dev.to/justinedevs">
-    <img
-      src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdev.to%2Fjustinedevs&size=square&rounded=24"
-      alt="DEV Community"
-    >
-  </a>
-
-  <a href="https://gitlab.com/justinedevs">
-    <img
-      src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgitlab.com%2Fjustinedevs&size=square"
-      alt="GitLab">
-  </a>
-  <a href="https://medium.com/@justinedevs">
-  <img
-    src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fmedium.com%2F%40justinedevs&size=square"
-    alt="Medium">
-</a>
-</p>
