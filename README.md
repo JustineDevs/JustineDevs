@@ -395,18 +395,10 @@ Language             |  Frameworks
     >
   </a>
 
-  <a href="https://x.com/trader2g">
-    <img
-      src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Ftrader2g&size=square"
-      alt="X"
-    >
-  </a>
-
   <a href="https://gitlab.com/justinedevs">
     <img
       src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgitlab.com%2Fjustinedevs&size=square"
-      alt="GitLab"
-    >
+      alt="GitLab">
   </a>
   <a href="https://medium.com/@justinedevs">
   <img
