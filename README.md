@@ -34,7 +34,7 @@
 
 ## Overview
 
-Technical & Logical| 2yrs | Software Developer | Website Developer | Entry-Mid Level | Backend / Frontend | AI‑native agents | blockchain infra, and developer experience, a prominent software developer, AI-native product builder, and technical content creator based in the Philippines. He is well-known in the local and global tech community for his specialized work in AI agent workflows, blockchain infrastructure, and developer experience (DevEx). I'm actively shares my technical perspectives and insights on social platforms.
+Technical & Logical | 2yrs | Software Developer | Website Developer | Entry-Mid Level | Backend / Frontend | AI‑native agents | blockchain infra, and developer experience, a prominent software developer, AI-native product builder, and technical content creator based in the Philippines. He is well-known in the local and global tech community for his specialized work in AI agent workflows, blockchain infrastructure, and developer experience (DevEx). I'm actively shares my technical perspectives and insights on social platforms.
 
 <p align="center">
   <img alt="chart" src="https://shieldcn.dev/chart/github/commits/justinedevs.svg?bg=transparent&amp;border=false&amp;logo=false&amp;width=1030&amp;title=Total+Activity&amp;icon=github" />
