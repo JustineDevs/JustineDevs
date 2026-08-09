@@ -42,7 +42,7 @@ I’m a software developer, AI-native product builder, and technical content cre
   <img alt="chart" src="https://shieldcn.dev/chart/github/commits/justinedevs.svg?bg=transparent&amp;border=false&amp;logo=false&amp;width=1030&amp;title=Total+Activity&amp;icon=github" />
 </p>
 
-Language             |  Frameworks
+Frameworks             |  Language
 :-------------------------:|:-------------------------:
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=nodejs,next,tailwind,react,vue,nuxt,express&includeNames=true&theme=darkmode)](https://github.com/justinedevs) |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,java,html,css,go,postgresql,mysql,mongodb,lua,visualbasic,solidity,markdown&includeNames=true&theme=darkmode)](https://github.com/justinedevs/) |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true)](https://github.com/justinedevs/)
 
