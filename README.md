@@ -345,7 +345,7 @@ Frameworks             |  Language
       <a href="https://lnkd.in/p/ghZps6Hk">
         <img
           width="100%"
-          src="https://media.licdn.com/dms/image/v2/D5622AQH3B3fgNBtuEw/feedshare-shrink_480/B56Z6VR1_8HUAg-/0/1780620943609?e=1787788800&amp;v=beta&amp;t=1AOUTYN2PM2SWoiOTm30fauFGrGnyMT_hTDOhzN7OOQ"
+          src="https://media.licdn.com/dms/image/v2/D5622AQH3B3fgNBtuEw/feedshare-shrink_1280/B56Z6VR1_8HUAM-/0/1780620943609?e=1792022400&v=beta&t=awgx0CNZNkjDBL4dyLllFbK-HhcT6ChW-X_JFwraaKg"
           alt="Founder Certificate"
         >
       </a>
